@@ -1,9 +1,6 @@
 
 
 import React, { useEffect } from "react";
-//import { useDispatch } from "react-redux";
-//import { useSelector } from "react-redux";
-//import { fetchUsers } from "../store/action-creators/user";
 import { useTypedSelector } from "../hooks/useTypedSelector";
 import { UseActions } from "../hooks/useAction";
 
